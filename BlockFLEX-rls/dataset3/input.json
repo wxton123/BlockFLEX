@@ -1,0 +1,19 @@
+{
+    "base": "/home/roit/models/250226res/",
+    "data_names": [
+        "stem",
+        "constellation",
+        "duty_ratio",
+      "route",
+      "throughputv2"
+    ],
+    "instances": [
+
+
+       {"stem": "20250416_232859","constellation": "StarLink","duty_ratio": 0.8,"route": "LSR"},
+       {"stem": "20250416_235826","constellation": "StarLink","duty_ratio": 0.8,"route": "ADOV"},
+       {"stem": "20250416_230416","constellation": "StarLink","duty_ratio": 0.8,"route": "ADOV-50"},
+       {"stem": "20250416_224936","constellation": "StarLink","duty_ratio": 0.8,"route": "DABR-PRO"}
+    ]
+}
+

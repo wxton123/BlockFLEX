@@ -1,0 +1,26 @@
+{
+  "base": "/home/roit/models/250226res/",
+  "data_names": [
+    "stem",
+    "constellation",
+    "duty_ratio",
+    "network"
+  ],
+  "instances": [
+
+
+
+      {"stem": "20250528_004131","constellation": "OneWeb","duty_ratio":0.7 ,"network": "BASIC"},
+     {"stem": "20250528_004138","constellation": "OneWeb","duty_ratio":0.7 ,"network": "STATIC"},
+     {"stem": "20250528_004154","constellation": "OneWeb","duty_ratio":0.7 ,"network": "RANDOM"},
+     {"stem": "20250528_004216","constellation": "OneWeb","duty_ratio":0.7 ,"network": "SBE"},
+
+
+
+      {"stem": "20250528_002354","constellation": "StarLink","duty_ratio":0.7 ,"network": "BASIC"},
+     {"stem": "20250528_002416","constellation": "StarLink","duty_ratio":0.7 ,"network": "STATIC"},
+     {"stem": "20250528_002452","constellation": "StarLink","duty_ratio":0.7 ,"network": "RANDOM"},
+     {"stem": "20250528_002547","constellation": "StarLink","duty_ratio":0.7 ,"network": "SBE"}
+
+  ]
+}

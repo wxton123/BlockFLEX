@@ -1,0 +1,168 @@
+{
+    "base": "/home/roit/models/250226res/",
+    "data_names": [
+        "stem",
+        "constellation",
+        "duty_ratio",
+      "route"
+    ],
+    "instances": [
+      {"stem": "20250421_151723","constellation": "OneWeb","duty_ratio":0.7 ,"route": "MDV"},
+      {"stem": "20250422_111452","constellation": "OneWeb","duty_ratio":0.7 ,"route": "TNV"},
+      {"stem": "20250422_144216","constellation": "OneWeb","duty_ratio":0.7 ,"route": "MDV-5BAS-uconv"},
+      {"stem": "20250422_144232","constellation": "OneWeb","duty_ratio":0.7 ,"route": "TNV-5BAS-uconv"},
+
+
+      {"stem": "20250422_142755","constellation": "OneWeb","duty_ratio":0.7 ,"route": "DABR-MDV-RANDOM"},
+      {"stem": "20250422_145738","constellation": "OneWeb","duty_ratio":0.7 ,"route": "DABR-TNV-RANDOM"},
+      {"stem": "20250422_145754","constellation": "OneWeb","duty_ratio":0.7 ,"route": "DABR-TNMD-RANDOM"},
+
+      {"stem": "20250422_112912","constellation": "OneWeb","duty_ratio":0.7 ,"route": "DABR-MDV-SBE"},
+      {"stem": "20250422_112547","constellation": "OneWeb","duty_ratio":0.7 ,"route": "DABR-TNV-SBE"},
+      {"stem": "20250422_112607","constellation": "OneWeb","duty_ratio":0.7 ,"route": "DABR-TNMD-SBE"},
+
+      {"stem": "20250422_114202","constellation": "OneWeb","duty_ratio":0.7 ,"route": "DABR-MDV-SBE-5BAS"},
+      {"stem": "20250422_114228","constellation": "OneWeb","duty_ratio":0.7 ,"route": "DABR-TNV-SBE-5BAS"},
+      {"stem": "20250422_114620","constellation": "OneWeb","duty_ratio":0.7 ,"route": "DABR-TNMD-SBE-5BAS"},
+
+
+      {"stem": "20250423_002822","constellation": "OneWeb","duty_ratio":0.8 ,"route": "MDV"},
+      {"stem": "20250423_002831","constellation": "OneWeb","duty_ratio":0.8 ,"route": "TNV"},
+      {"stem": "20250423_002853","constellation": "OneWeb","duty_ratio":0.8 ,"route": "MDV-nBAS"},
+      {"stem": "20250423_002909","constellation": "OneWeb","duty_ratio":0.8 ,"route": "TNV-nBAS"},
+
+
+
+
+      {"stem": "20250423_002927","constellation": "OneWeb","duty_ratio":0.8 ,"route": "DABR-MDV-RANDOM"},
+      {"stem": "20250423_002946","constellation": "OneWeb","duty_ratio":0.8 ,"route": "DABR-TNV-RANDOM"},
+      {"stem": "20250423_003008","constellation": "OneWeb","duty_ratio":0.8 ,"route": "DABR-TNMD-RANDOM"},
+
+      {"stem": "20250423_003031","constellation": "OneWeb","duty_ratio":0.8 ,"route": "DABR-MDV-SBE"},
+      {"stem": "20250423_003056","constellation": "OneWeb","duty_ratio":0.8 ,"route": "DABR-TNV-SBE"},
+      {"stem": "20250423_003125","constellation": "OneWeb","duty_ratio":0.8 ,"route": "DABR-TNMD-SBE"},
+
+      {"stem": "20250423_003204","constellation": "OneWeb","duty_ratio":0.8 ,"route": "DABR-MDV-SBE-5BAS"},
+      {"stem": "20250423_003243","constellation": "OneWeb","duty_ratio":0.8 ,"route": "DABR-TNV-SBE-5BAS"},
+      {"stem": "20250423_003327","constellation": "OneWeb","duty_ratio":0.8 ,"route": "DABR-TNMD-SBE-5BAS"},
+
+
+        {"stem": "20250422_154824","constellation": "OneWeb","duty_ratio":0.9 ,"route": "MDV-nBAS"},
+      {"stem": "20250422_154839","constellation": "OneWeb","duty_ratio":0.9 ,"route": "TNV-nBAS"},
+
+      {"stem": "20250422_154858","constellation": "OneWeb","duty_ratio":0.9 ,"route": "DABR-MDV-RANDOM"},
+      {"stem": "20250422_154918","constellation": "OneWeb","duty_ratio":0.9 ,"route": "DABR-TNV-RANDOM"},
+      {"stem": "20250422_154943","constellation": "OneWeb","duty_ratio":0.9 ,"route": "DABR-TNMD-RANDOM"},
+
+      {"stem": "20250422_155007","constellation": "OneWeb","duty_ratio":0.9 ,"route": "DABR-MDV-SBE"},
+      {"stem": "20250422_155032","constellation": "OneWeb","duty_ratio":0.9 ,"route": "DABR-TNV-SBE"},
+      {"stem": "20250422_155102","constellation": "OneWeb","duty_ratio":0.9 ,"route": "DABR-TNMD-SBE"},
+
+
+      {"stem": "20250422_155138","constellation": "OneWeb","duty_ratio":0.9 ,"route": "DABR-MDV-SBE-5BAS"},
+      {"stem": "20250422_155215","constellation": "OneWeb","duty_ratio":0.9 ,"route": "DABR-TNV-SBE-5BAS"},
+      {"stem": "20250422_155258","constellation": "OneWeb","duty_ratio":0.9 ,"route": "DABR-TNMD-SBE-5BAS"},
+
+
+      {"stem": "20250423_141343","constellation": "OneWeb","duty_ratio":1 ,"route": "MDV"},
+      {"stem": "20250423_141356","constellation": "OneWeb","duty_ratio":1 ,"route": "TNV"},
+      {"stem": "20250423_141411","constellation": "OneWeb","duty_ratio":1 ,"route": "MDV-nBAS"},
+      {"stem": "20250423_141423","constellation": "OneWeb","duty_ratio":1 ,"route": "TNV-PRO"},
+
+      {"stem": "20250423_141444","constellation": "OneWeb","duty_ratio":1 ,"route": "DABR-MDV-RANDOM"},
+      {"stem": "20250423_141507","constellation": "OneWeb","duty_ratio":1 ,"route": "DABR-TNV-RANDOM"},
+      {"stem": "20250423_141533","constellation": "OneWeb","duty_ratio":1 ,"route": "DABR-TNMD-RANDOM"},
+
+      {"stem": "20250423_141601","constellation": "OneWeb","duty_ratio":1 ,"route": "DABR-MDV-SBE"},
+      {"stem": "20250423_141630","constellation": "OneWeb","duty_ratio":1 ,"route": "DABR-TNV-SBE"},
+      {"stem": "20250423_141703","constellation": "OneWeb","duty_ratio":1 ,"route": "DABR-TNMD-SBE"},
+
+
+      {"stem": "20250423_141740","constellation": "OneWeb","duty_ratio":1 ,"route": "DABR-MDV-SBE-5BAS"},
+      {"stem": "20250423_141819","constellation": "OneWeb","duty_ratio":1 ,"route": "DABR-TNV-SBE-5BAS"},
+      {"stem": "20250423_141903","constellation": "OneWeb","duty_ratio":1 ,"route": "DABR-TNMD-SBE-5BAS"},
+
+
+
+      {"stem": "20250422_150337","constellation": "StarLink","duty_ratio":0.7 ,"route": "MDV"},
+      {"stem": "20250422_150345","constellation": "StarLink","duty_ratio":0.7 ,"route": "TNV"},
+      {"stem": "20250422_150411","constellation": "StarLink","duty_ratio":0.7 ,"route": "MDV-nBAS"},
+      {"stem": "20250422_150431","constellation": "StarLink","duty_ratio":0.7 ,"route": "TNV-nBAS"},
+
+
+      {"stem": "20250422_150450","constellation": "StarLink","duty_ratio":0.7 ,"route": "DABR-MDV-RANDOM"},
+      {"stem": "20250422_150510","constellation": "StarLink","duty_ratio":0.7 ,"route": "DABR-TNV-RANDOM"},
+      {"stem": "20250422_150533","constellation": "StarLink","duty_ratio":0.7 ,"route": "DABR-TNMD-RANDOM"},
+
+    {"stem": "20250422_150554","constellation": "StarLink","duty_ratio":0.7 ,"route": "DABR-MDV-SBE"},
+      {"stem": "20250422_150618","constellation": "StarLink","duty_ratio":0.7 ,"route": "DABR-TNV-SBE"},
+      {"stem": "20250422_150647","constellation": "StarLink","duty_ratio":0.7 ,"route": "DABR-TNMD-SBE"},
+
+
+      {"stem": "20250422_150725","constellation": "StarLink","duty_ratio":0.7 ,"route": "DABR-MDV-SBE-5BAS"},
+      {"stem": "20250422_150804","constellation": "StarLink","duty_ratio":0.7 ,"route": "DABR-TNV-SBE-5BAS"},
+      {"stem": "20250422_150848","constellation": "StarLink","duty_ratio":0.7 ,"route": "DABR-TNMD-SBE-5BAS"},
+
+       {"stem": "20250422_211237","constellation": "StarLink","duty_ratio":0.8 ,"route": "MDV"},
+      {"stem": "20250422_211247","constellation": "StarLink","duty_ratio":0.8,"route": "TNV"},
+      {"stem": "20250422_211309","constellation": "StarLink","duty_ratio":0.8 ,"route": "MDV-nBAS"},
+      {"stem": "20250422_211326","constellation": "StarLink","duty_ratio":0.8 ,"route": "TNV-nBAS"},
+
+
+      {"stem": "20250422_211346","constellation": "StarLink","duty_ratio":0.8 ,"route": "DABR-MDV-RANDOM"},
+      {"stem": "20250422_211407","constellation": "StarLink","duty_ratio":0.8 ,"route": "DABR-TNV-RANDOM"},
+      {"stem": "20250422_211431","constellation": "StarLink","duty_ratio":0.8 ,"route": "DABR-TNMD-RANDOM"},
+
+      {"stem": "20250422_211454","constellation": "StarLink","duty_ratio":0.8 ,"route": "DABR-MDV-SBE"},
+      {"stem": "20250422_211521","constellation": "StarLink","duty_ratio":0.8 ,"route": "DABR-TNV-SBE"},
+      {"stem": "20250422_211551","constellation": "StarLink","duty_ratio":0.8 ,"route": "DABR-TNMD-SBE"},
+
+
+      {"stem": "20250422_211627","constellation": "StarLink","duty_ratio":0.8 ,"route": "DABR-MDV-SBE-5BAS"},
+      {"stem": "20250422_211705","constellation": "StarLink","duty_ratio":0.8 ,"route": "DABR-TNV-SBE-5BAS"},
+      {"stem": "20250422_211746","constellation": "StarLink","duty_ratio":0.8 ,"route": "DABR-TNMD-SBE-5BAS"},
+
+
+      {"stem": "20250422_155657","constellation": "StarLink","duty_ratio":0.9 ,"route": "MDV"},
+      {"stem": "20250422_155707","constellation": "StarLink","duty_ratio":0.9 ,"route": "TNV"},
+      {"stem": "20250422_155728","constellation": "StarLink","duty_ratio":0.9 ,"route": "MDV-nBAS"},
+      {"stem": "20250422_155744","constellation": "StarLink","duty_ratio":0.9 ,"route": "TNV-nBAS"},
+
+
+      {"stem": "20250422_155804","constellation": "StarLink","duty_ratio":0.9 ,"route": "DABR-MDV-RANDOM"},
+      {"stem": "20250422_155826","constellation": "StarLink","duty_ratio":0.9 ,"route": "DABR-TNV-RANDOM"},
+      {"stem": "20250422_155852","constellation": "StarLink","duty_ratio":0.9 ,"route": "DABR-TNMD-RANDOM"},
+
+      {"stem": "20250422_155917","constellation": "StarLink","duty_ratio":0.9 ,"route": "DABR-MDV-SBE"},
+      {"stem": "20250422_155945","constellation": "StarLink","duty_ratio":0.9 ,"route": "DABR-TNV-SBE"},
+      {"stem": "20250422_160015","constellation": "StarLink","duty_ratio":0.9 ,"route": "DABR-TNMD-SBE"},
+
+
+      {"stem": "20250422_160050","constellation": "StarLink","duty_ratio":0.9 ,"route": "DABR-MDV-SBE-5BAS"},
+      {"stem": "20250422_160128","constellation": "StarLink","duty_ratio":0.9 ,"route": "DABR-TNV-SBE-5BAS"},
+      {"stem": "20250422_160209","constellation": "StarLink","duty_ratio":0.9 ,"route": "DABR-TNMD-SBE-5BAS"},
+
+
+
+      {"stem": "20250423_144023","constellation": "StarLink","duty_ratio":1 ,"route": "MDV"},
+      {"stem": "20250423_144038","constellation": "StarLink","duty_ratio":1 ,"route": "TNV"},
+      {"stem": "20250423_144056","constellation": "StarLink","duty_ratio":1 ,"route": "MDV-nBAS"},
+      {"stem": "20250423_144112","constellation": "StarLink","duty_ratio":1 ,"route": "TNV-nBAS"},
+
+
+      {"stem": "20250423_144132","constellation": "StarLink","duty_ratio":1 ,"route": "DABR-MDV-RANDOM"},
+      {"stem": "20250423_144156","constellation": "StarLink","duty_ratio":1 ,"route": "DABR-TNV-RANDOM"},
+      {"stem": "20250423_144223","constellation": "StarLink","duty_ratio":1 ,"route": "DABR-TNMD-RANDOM"},
+
+      {"stem": "20250423_144249","constellation": "StarLink","duty_ratio":1 ,"route": "DABR-MDV-SBE"},
+      {"stem": "20250423_144319","constellation": "StarLink","duty_ratio":1 ,"route": "DABR-TNV-SBE"},
+      {"stem": "20250423_144352","constellation": "StarLink","duty_ratio":1 ,"route": "DABR-TNMD-SBE"},
+
+
+      {"stem": "20250423_144428","constellation": "StarLink","duty_ratio":1 ,"route": "DABR-MDV-SBE-5BAS"},
+      {"stem": "20250423_144506","constellation": "StarLink","duty_ratio":1 ,"route": "DABR-TNV-SBE-5BAS"},
+      {"stem": "20250423_144549","constellation": "StarLink","duty_ratio":1 ,"route": "DABR-TNMD-SBE-5BAS"}
+
+    ]
+}
+

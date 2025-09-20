@@ -1,0 +1,25 @@
+{
+  "base": "/home/roit/models/250226res/",
+  "data_names": [
+    "stem",
+    "constellation",
+    "duty_ratio",
+    "route"
+  ],
+  "instances": [
+
+
+
+
+     {"stem": "20250528_054103","constellation": "OneWeb","duty_ratio":0.7 ,"route": "MHP"},
+     {"stem": "20250528_054120","constellation": "OneWeb","duty_ratio":0.7 ,"route": "SDP"},
+
+     {"stem": "20250528_054139","constellation": "OneWeb","duty_ratio":0.7,"route": "MDV"},
+     {"stem": "20250528_054157","constellation": "OneWeb","duty_ratio":0.7,"route": "TNV"},
+
+
+     {"stem": "20250528_054341","constellation": "OneWeb","duty_ratio":0.7 ,"route": "DABR (w/o OS3)"},
+     {"stem": "20250528_054231","constellation": "OneWeb","duty_ratio":0.7 ,"route": "DABR (w/o nBAS)"},
+     {"stem": "20250528_054508","constellation": "OneWeb","duty_ratio":0.7 ,"route": "DABR"}
+  ]
+}

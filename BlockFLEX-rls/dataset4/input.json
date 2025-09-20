@@ -1,0 +1,66 @@
+{
+  "base": "/home/roit/models/250226res/",
+  "data_names": [
+    "stem",
+    "constellation",
+    "duty_ratio",
+    "route"
+  ],
+  "instances": [
+
+     {"stem": "20250507_145429","constellation": "OneWeb","duty_ratio":1 ,"route": "MHP"},
+     {"stem": "20250525_053006","constellation": "OneWeb","duty_ratio":1 ,"route": "SDP"},
+
+     {"stem": "20250507_145216","constellation": "OneWeb","duty_ratio":1 ,"route": "MDV"},
+     {"stem": "20250525_053019","constellation": "OneWeb","duty_ratio":1 ,"route": "TNV"},
+
+     {"stem": "20250507_145249","constellation": "OneWeb","duty_ratio":1 ,"route": "MDV-PRO"},
+     {"stem": "20250507_150229","constellation": "OneWeb","duty_ratio":1 ,"route": "MDV-PRO-stable"},
+
+     {"stem": "20250525_053042","constellation": "OneWeb","duty_ratio":1 ,"route": "DABR w/o nBAS"},
+     {"stem": "20250507_142907","constellation": "OneWeb","duty_ratio":1 ,"route": "DABR-PRO"},
+     {"stem": "20250523_164835","constellation": "OneWeb","duty_ratio":1 ,"route": "DABR-PRO w/o stable"},
+
+
+
+
+     {"stem": "20250507_204441","constellation": "OneWeb","duty_ratio":0.7 ,"route": "MHP"},
+     {"stem": "20250525_052727","constellation": "OneWeb","duty_ratio":0.7 ,"route": "SDP"},
+
+     {"stem": "20250507_204505","constellation": "OneWeb","duty_ratio":0.7 ,"route": "MDV"},
+     {"stem": "20250525_052739","constellation": "OneWeb","duty_ratio":0.7 ,"route": "TNV"},
+
+     {"stem": "20250507_204542","constellation": "OneWeb","duty_ratio":0.7 ,"route": "MDV-PRO"},
+     {"stem": "20250507_204622","constellation": "OneWeb","duty_ratio":0.7 ,"route": "MDV-PRO-stable"},
+     {"stem": "20250507_204719","constellation": "OneWeb","duty_ratio":0.7 ,"route": "DABR-PRO"},
+     {"stem": "20250523_164627","constellation": "OneWeb","duty_ratio":0.7 ,"route": "DABR (w/o stable)"},
+     {"stem": "20250525_055313","constellation": "OneWeb","duty_ratio":0.7 ,"route": "DABR (w/o nBAS)"},
+     {"stem": "20250525_062621","constellation": "OneWeb","duty_ratio":0.7 ,"route": "DABR small"},
+
+
+
+     {"stem": "20250513_155326","constellation": "StarLink","duty_ratio":1 ,"route": "MHP"},
+     {"stem": "20250525_052329","constellation": "StarLink","duty_ratio":1 ,"route": "SDP"},
+     {"stem": "20250513_155345","constellation": "StarLink","duty_ratio":1 ,"route": "MDV"},
+     {"stem": "20250525_052338","constellation": "StarLink","duty_ratio":1 ,"route": "TNV"},
+     {"stem": "20250513_155407","constellation": "StarLink","duty_ratio":1 ,"route": "MDV-PRO"},
+     {"stem": "20250513_155432","constellation": "StarLink","duty_ratio":1 ,"route": "MDV-PRO-stable"},
+     {"stem": "20250513_155511","constellation": "StarLink","duty_ratio":1 ,"route": "DABR"},
+     {"stem": "20250523_165223","constellation": "StarLink","duty_ratio":1 ,"route": "DABR (w/o stable)"},
+     {"stem": "20250525_060435","constellation": "StarLink","duty_ratio":1 ,"route": "DABR (w/o nBAS)"},
+
+
+     {"stem": "20250513_160230","constellation": "StarLink","duty_ratio":0.7 ,"route": "MHP"},
+     {"stem": "20250525_052556","constellation": "StarLink","duty_ratio":0.7 ,"route": "SDP"},
+
+     {"stem": "20250513_160251","constellation": "StarLink","duty_ratio":0.7,"route": "MDV"},
+     {"stem": "20250525_052607","constellation": "StarLink","duty_ratio":0.7,"route": "TNV"},
+
+     {"stem": "20250513_160317","constellation": "StarLink","duty_ratio":0.7 ,"route": "MDV-PRO"},
+     {"stem": "20250513_160345","constellation": "StarLink","duty_ratio":0.7 ,"route": "MDV-PRO-stable"},
+     {"stem": "20250513_160427","constellation": "StarLink","duty_ratio":0.7 ,"route": "DABR-PRO"},
+     {"stem": "20250523_165121","constellation": "StarLink","duty_ratio":0.7 ,"route": "DABR (w/o stable)"},
+     {"stem": "20250525_060650","constellation": "StarLink","duty_ratio":0.7 ,"route": "DABR (w/o nBAS)"},
+     {"stem": "20250525_061145","constellation": "StarLink","duty_ratio":0.7 ,"route": "DABR small"}
+  ]
+}
