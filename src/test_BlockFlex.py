@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 route_order = ['MHP', 'SDP', 'OrbitCast', 'SHORT', 'BlockFLEX (w/o OS3)', 'BlockFLEX']
 
 
-class TestBlockFLex(unittest.TestCase):
+class TestBlockFLEX(unittest.TestCase):
 
 
     '''     EXP1
