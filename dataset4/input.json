@@ -1,0 +1,20 @@
+{
+    "base": "/home/roit/models/250226res/",
+    "data_names": [
+        "stem",
+        "constellation",
+        "duty_ratio",
+      "route",
+      "throughputv2"
+    ],
+    "instances": [
+
+       {"stem": "20250527_002032","constellation": "StarLink","duty_ratio": 0.8,"route": "MHP"},
+       {"stem": "20250527_002045","constellation": "StarLink","duty_ratio": 0.8,"route": "SDP"},
+       {"stem": "20250527_002103","constellation": "StarLink","duty_ratio": 0.8,"route": "GEO"},
+       {"stem": "20250527_002119","constellation": "StarLink","duty_ratio": 0.8,"route": "TNV"},
+       {"stem": "20250527_002145","constellation": "StarLink","duty_ratio": 0.8,"route": "DABR"}
+
+    ]
+}
+
